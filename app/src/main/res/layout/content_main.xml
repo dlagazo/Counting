@@ -139,7 +139,9 @@
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="ICE CREAM COMBINATIONS"/>
+            android:text="ICE CREAM COMBINATIONS"
+            android:id="@+id/btnGenerate"/>
+
     </LinearLayout>
 
 </LinearLayout>
